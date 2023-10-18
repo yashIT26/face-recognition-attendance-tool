@@ -1,2 +1,2 @@
-# face-recognition-attendance-tool
+# python college project
 college project
